@@ -21,3 +21,19 @@ img {
 .seudo-link:hover{
     color: red;
 }
+
+header{
+    position: relative;
+}
+h1{
+    position: absolute;
+    margin-left: 220px;
+}
+
+section{
+    margin-bottom: 40px;
+}
+
+.color-text{
+    color: white;
+}
