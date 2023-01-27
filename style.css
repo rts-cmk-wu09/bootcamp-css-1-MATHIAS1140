@@ -1,0 +1,23 @@
+@import url('https://fonts.googleapis.com/css2?family=Ranchers&family=Roboto:ital,wght@1,300&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'open-sans', sans-serif;
+}
+
+body {
+    background-color: rgb(40, 176, 240);
+    font-family: 'Roboto', sans-serif;
+}
+
+img {
+    width: 200px;
+    height: 200px;
+    object-fit: cover;
+}
+
+.seudo-link:hover{
+    color: red;
+}
